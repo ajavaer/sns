@@ -1,0 +1,168 @@
+[
+  {
+    "title": "控制台",
+    "href": "/center.php?s=console/index.html",
+    "fontFamily": "ok-icon",
+    "icon": "&#xe654;",
+    "spread": true,
+    "isCheck": true
+  },
+  {
+    "title": "服务",
+    "href": "",
+    "fontFamily": "ok-icon",
+    "icon": "&#xe676;",
+    "spread": false,
+    "children": [
+      {
+        "title": "项目服务",
+        "href": "/center.php?s=project/index.html",
+        "fontFamily": "ok-icon",
+        "icon": "&#xe66f;",
+        "spread": false
+      }
+    ]
+  },
+  {
+    "title": "财务",
+    "href": "",
+    "fontFamily": "ok-icon",
+    "icon": "&#xe6ee;",
+    "spread": false,
+    "children": [
+      {
+        "title": "订单列表",
+        "href": "/center.php?s=member/user-list.html",
+        "fontFamily": "ok-icon",
+        "icon": "&#xe7ad;",
+        "spread": false
+      },
+      {
+        "title": "收支明细",
+        "href": "/center.php?s=member/role-list.html","fontFamily": "ok-icon",
+        "icon": "&#xe7ad;",
+        "spread": false
+      },
+      {
+        "title": "充值记录",
+        "href": "/center.php?s=member/permission-list.html","fontFamily": "ok-icon",
+        "icon": "&#xe7ad;",
+        "spread": false
+      }
+    ]
+  },{
+    "title": "活动",
+    "href": "",
+    "fontFamily": "ok-icon",
+    "icon": "&#xe729;",
+    "spread": false,
+    "children": [
+      {
+        "title": "推广奖励",
+        "href": "/center.php?s=member/user-list.html",
+        "fontFamily": "ok-icon",
+        "icon": "&#xe6d3;",
+        "spread": false
+      }
+
+    ]
+  },
+  {
+    "title": "日志",
+    "href": "",
+    "fontFamily": "ok-icon",
+    "icon": "&#xe74a;",
+    "spread": false,
+    "children": [
+      {
+        "title": "操作日志",
+        "href": "/center.php?s=member/user-list.html",
+        "fontFamily": "ok-icon",
+        "icon": "&#xe649;",
+        "spread": false
+      }
+    ]
+  }, {
+  "title": "账号管理",
+  "href": "",
+  "fontFamily": "ok-icon",
+  "icon": "&#xe736;",
+  "spread": false,
+  "children": [
+    {
+      "title": "基本信息",
+      "href": "/center.php?s=member/user-list.html",
+      "fontFamily": "ok-icon",
+      "icon": "&#xe759;",
+      "spread": false
+    },
+    {
+      "title": "修改密码",
+      "href": "/center.php?s=member/user-list.html",
+      "fontFamily": "ok-icon",
+      "icon": "&#xe769;",
+      "spread": false
+    },
+    {
+      "title": "退出登录",
+      "href": "/center.php?s=member/user-list.html",
+      "fontFamily": "ok-icon",
+      "icon": "&#xe646;",
+      "spread": false
+    }
+  ]
+},
+
+  {
+    "title": "系统管理",
+    "href": "",
+    "fontFamily": "ok-icon",
+    "icon": "&#xe68a;",
+    "spread": false,
+    "children": [
+      {
+        "title": "系统设置",
+        "href": "/center.php?s=system/setup.html",
+        "icon": "&#xe62e;",
+        "spread": false
+      },
+      {
+        "title": "日志列表",
+        "href": "/center.php?s=system/log.html",
+        "icon": "&#xe62e;",
+        "spread": false
+      },
+      {
+        "title": "屏蔽词",
+        "href": "/center.php?s=system/shield.html",
+        "icon": "&#xe62e;",
+        "spread": false
+      },
+      {
+        "title": "登录页面",
+        "href": "/center.php?s=login.html",
+        "icon": "&#xe609;",
+        "spread": false,
+        "target": "_blank"
+      },
+      {
+        "title": "403页面",
+        "href": "/center.php?s=system/403.html",
+        "icon": "&#xe61c;",
+        "spread": false
+      },
+      {
+        "title": "404页面",
+        "href": "/center.php?s=system/404.html",
+        "icon": "&#xe61c;",
+        "spread": false
+      },
+      {
+        "title": "500页面",
+        "href": "/center.php?s=system/500.html",
+        "icon": "&#xe61c;",
+        "spread": false
+      }
+    ]
+  }
+]
